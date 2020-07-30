@@ -13,13 +13,13 @@ Install yarn
 npm install -g yarn
 ```
 
-Build the IDE
+Build it
 ```
 yarn
 yarn theia build
 ```
 
-Run the IDE
+Run it
 ```
 yarn start /my-workspace --hostname 0.0.0.0 --port 8080
 ```
