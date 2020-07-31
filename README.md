@@ -1,5 +1,6 @@
 # Ape IDE
-An IDE based on Eclipse Theia
+## Description
+An online IDE based on Eclipse Theia
 
 ## How to use it
 Install node.js 10
