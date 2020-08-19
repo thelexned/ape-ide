@@ -24,3 +24,9 @@ Run it
 ```
 yarn start /my-workspace --hostname 0.0.0.0 --port 8080
 ```
+Open http://locahost:8080
+## Run it with Docker
+```
+docker run -p 8080:8080 -d lexned/ape-ide
+```
+Open http://locahost:8080
