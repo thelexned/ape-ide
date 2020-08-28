@@ -1,4 +1,8 @@
 # Ape IDE
+
+![APE IDE](images/ape-ide-logo.png?raw=true "Ape IDE")
+
+
 ## Description
 An online IDE based on Eclipse Theia
 
