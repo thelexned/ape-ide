@@ -1,7 +1,6 @@
 # Ape IDE
 
-![APE IDE](images/ape-ide-logo.png?raw=true "Ape IDE"){ width="507" height="261" style="display: block; margin: 0 auto" }
-
+![APE IDE](images/ape-ide-logo.png?raw=true "Ape IDE")
 
 ## Description
 An online IDE based on Eclipse Theia
