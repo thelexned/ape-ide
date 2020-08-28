@@ -3,10 +3,10 @@
 An online IDE based on Eclipse Theia
 
 ## How to use it
-Install node.js 10
+Install node.js 12
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.5/install.sh | bash
-nvm install 10
+nvm install 12
 ```
 
 Install yarn
