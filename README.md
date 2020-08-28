@@ -1,5 +1,3 @@
-# Ape IDE
-
 ![APE IDE](images/ape-ide-logo.png?raw=true "Ape IDE")
 
 ## Description
